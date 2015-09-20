@@ -1,6 +1,6 @@
 <?php
 class efg {
-  var $c=3;
+  var $c=4;
 }
 
 ?>
